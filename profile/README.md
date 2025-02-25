@@ -1,4 +1,4 @@
-## Hi there 👋, This a official PowerPlay Git Repository
+## Hi there 👋, This an official PowerPlay Git Organization.
 
 ### 🙋‍♀️ What is your organization all about?
 Cross-platform app for physical therapy, enabling seamless therapist-patient connection for physical therapy
