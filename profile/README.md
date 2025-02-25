@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hi there 👋, This a official PowerPlay Git Repository
 
-<!--
+### 🙋‍♀️ What is your organization all about?
+Cross-platform app for physical therapy, enabling seamless therapist-patient connection for physical therapy
+Built key features, including home exercise assignments, progress tracking, and gamification to enhance patient engagement and recovery.
 
-**Here are some ideas to get you started:**
+### 👩‍💻 Tech Stack 
+React Native (Expo), FastAPI, MongoDB, and AWS S3
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌈 Design
+High-Fedality Design : [Figma Design](https://www.figma.com/design/MX8WMMbbjNMKmKPatkKdOc/High-Fidelity-Design?node-id=908-2816&t=J9WvtTAjl2PdRglY-1)
+
+### 🍿 Fun facts
+The oldest living land animal on earth is a 192-year-old tortoise named Jonathan.
+More details...Coming Soon!
