@@ -16,3 +16,6 @@ Backend API : [Test APIs using Swagger UI](https://powerplaybackend-ihgoehctdq-u
 ### 🍿 Fun facts
 The oldest living land animal on earth is a 192-year-old tortoise named Jonathan.
 More details...Coming Soon!
+
+### Learn More About our Vision:
+Summary of our App: PowerPlay Executive Summary(https://docs.google.com/document/d/13TOLES3sivC1Skek4-EaCykJc-wEbxlBZKngi1JV_-4/edit?usp=sharing)
