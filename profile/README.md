@@ -19,3 +19,4 @@ More details...Coming Soon!
 
 ### Learn More About our Vision:
 Summary of our App: [PowerPlay Executive Summary](https://docs.google.com/document/d/13TOLES3sivC1Skek4-EaCykJc-wEbxlBZKngi1JV_-4/edit?usp=sharing)
+[A Video Demonstration](https://youtu.be/oSrw112yDNc)
